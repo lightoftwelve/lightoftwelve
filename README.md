@@ -6,15 +6,16 @@
 ## 💻 Projects
 🔭 Here are some of the exciting projects I've been working on:
 
-1. [Project 1](https://lightoftwelve.com/): A comprehensive worldwide e-commerce platform for gemstone and spirituality enthusiasts with two international warehouses. Built with Shopify and integrates with various payment gateways and shipping providers.
-2. Project 2: Tarot Reading App
+1. [www.lightoftwelve.com](https://lightoftwelve.com/): 
+   - A comprehensive worldwide e-commerce platform for gemstone and spirituality enthusiasts with two international warehouses. Built with Shopify and integrates with various payment gateways and shipping providers.
+2. Tarot Reading App: 
    - Description: An intuitive and personalized tarot reading application that provides insights and guidance for users. It utilizes machine learning algorithms and a vast database of tarot interpretations generated based on users' input questions.
    - Status: In progress
-3. Project 3: Astrology API for Website
+3. Astrology API for Website: 
    - Description: An astrology API that provides real-time horoscope data, birth chart calculations, and compatibility analysis. Designed to integrate seamlessly with websites or applications.
    - Technologies: Node.js, Express
    - Status: In progress
-4. [Project 4](https://lightoftwelve.github.io/travel-tracker/): TravelTracker
+4. [TravelTracker](https://lightoftwelve.github.io/travel-tracker/): 
    - Description: TravelTracker is a web application that allows users to create and manage their travel itineraries and bucket lists. Users can create a bucket list of places to visit, plan activities on a calendar, explore destinations on an interactive map, and check weather information for selected locations. It aims to become an all-in-one trip planning and booking app, incorporating hotel, car rentals, events, ticket rentals, and an AI travel assistant to help users plan tasks and make trips manageable.
    - Technologies: MapBox API, OpenWeatherMap, DayJS, jQuery, JS, HTML, CSS
    - Status: Ongoing development

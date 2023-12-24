@@ -342,7 +342,7 @@ Feel free to explore these projects and provide any feedback or suggestions!
 🔧 Throughout my journey, I've acquired a diverse set of skills:
 
 - **Frontend**: HTML, CSS, JavaScript, React, Typescript, jQuery
-- **Backend**: Next.js, Node.js, Express.js, MongoDB (Mongoose), MySQL (Sequelize), API Creation, GraphQL, Handlebars, Amazon Web Services (Lambda, Cloudfront, S3, SQS), Webpack (creating PWAs), C, C#
+- **Backend**: Next.js, Node.js, Express.js, MongoDB (Mongoose), MySQL (Sequelize), API Creation, GraphQL, Handlebars, Amazon Web Services (Lambda, Cloudfront, S3, SQS), Webpack (creating PWAs), C, C#, C++
 - **Libraries**: Bootstrap, Material UI, Prime React, Materialize, Owl Carousel, jQuery FancyBox
 - **Third Party APIs**: OpenAI, Google Map Services
 - **Common Packages**: D3, Chart.js, Editor.js

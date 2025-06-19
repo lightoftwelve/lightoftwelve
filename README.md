@@ -1,47 +1,44 @@
 <p align="center">
-  <a href="#">
-    <img
-      src="https://cdn.shopify.com/s/files/1/0605/4926/7596/files/Light-of-Twelve-Github-Banner.jpg?v=1703388820"
-      height="400px"
-      width="100%"
-    />
-  </a>
+  <img src="https://cdn.shopify.com/s/files/1/0605/4926/7596/files/Light-of-Twelve-Github-Banner.jpg?v=1703388820" height="400px" width="100%" />
 </p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/victoria-alawi-872984250/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-130A21?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-130A21?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://www.lightoftwelve.com">
-    <img
-      src="https://img.shields.io/badge/website-130A21?style=for-the-badge&logo=About.me&logoColor=white"
-      alt="Twitter Badge"
-    />
+    <img src="https://img.shields.io/badge/website-130A21?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" />
   </a>
   <a href="https://www.pinterest.ca/lightoftwelve/">
-    <img
-      src="https://img.shields.io/badge/Pinterest-130A21?style=for-the-badge&logo=Pinterest&logoColor=white"
-      alt="Pinterest Badge"
-    />
+    <img src="https://img.shields.io/badge/Pinterest-130A21?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge" />
   </a>
-  
- ![](https://komarev.com/ghpvc/?username=lightoftwelve&style=for-the-badge&color=130A21)
-
+  <img src="https://komarev.com/ghpvc/?username=lightoftwelve&style=for-the-badge&color=130A21" />
 </div>
 
-## About Me 
+---
 
-🚀 As a spirited entrepreneur with a rich 15-year journey in UI/UX design, I've now embraced the exciting world of full-stack development. My tech adventure started in Telecommunications Engineering and web development as a leisure pursuit. This path ignited my entrepreneurial spirit, leading to successful ventures in real estate, e-commerce, and software development, creating job opportunities for many others along the way.
+## 👋 About Me
 
-💡 Presently, I'm steering the ship as the CTO & Co-Founder of [**Write Guide AI**](https://writeguide.ai), where we innovate in AI-driven article and social media content generation, giving business owners and hobbyists the opportunity to free up their time by letting Write Guide AI write blogs and social media content for them! Simultaneously, I am the CEO & Founder [**Light of Twelve**](https://www.lightoftwelve.com), a unique global gemstone and mineral enterprise. Here, I blend my love for storytelling with spirituality, tarot, astrology, crystal healing, and more, crafting compelling narratives for our audience.
+I'm Victoria — a full-stack developer, systems strategist, and entrepreneur with 15+ years of experience building scalable software, automating business workflows, and launching digital ventures.
 
-I'm at my best when tackling complex challenges in fast-paced environments, finding great satisfaction in exceeding expectations. This passion fuels my growing interest in full-stack development, adding a new dimension to my skill set. Alongside technical prowess, I bring expertise in project management, business planning, e-commerce, SEO optimization, import/export, and real estate investment.
+My work spans e-commerce, SaaS, logistics, and real estate — with a focus on building maintainable systems that reduce overhead and scale smoothly.
 
-Join me on this journey as I continue to explore the intersection of technology, creativity, and business acumen, always aiming to push boundaries and inspire innovation.
+I’ve led full product lifecycles, from early architecture to deployment and ops. Whether solo or collaborating, I bring a mix of engineering, strategy, and business instinct to everything I ship.
 
+---
+
+## 🛠️ Tech Stack Highlights
+
+**Frontend**: React, Next.js, TypeScript, HTML, CSS, UI/UX  
+**Backend**: Node.js, Express, Python, Flask, MongoDB, MySQL, GraphQL, REST APIs  
+**Infra**: AWS (Lambda, S3, SQS), Vercel, Railway, Heroku, Docker  
+**Data**: Pandas, Web Scraping, Reporting Automation  
+**Ecommerce**: Shopify (custom dev), SEO Strategy, CRM Integration  
+**Other**: Project Management, Import/Export, Copywriting, Real Estate Investment
+
+---
+
+<br>
 <br>
 
 <div align="center">
@@ -252,121 +249,17 @@ Join me on this journey as I continue to explore the intersection of technology,
  <p align="right">...& more</p>
 
 <br>
-<br>
 
-## 💻 Current Exciting Projects
-<br>
+---
 
-### [Write Guide AI](https://www.writeguide.ai) | Ongoing development
-<table>
-  <tr>
-     <td>
-      <a href="https://www.writeguide.ai">
-        <img
-          src="https://cdn.shopify.com/s/files/1/0605/4926/7596/files/write-away-logo-128x128.jpg?v=1703396010"
-          width="500px"
-          alt="Write Guide AI Logo"
-        />
-      </a>
-    </td>
-    <td>
-       
-At **Write Guide AI**, we're redefining content creation. Imagine inputting a few simple parameters – keywords, desired word count, tone, and title – and watching as our AI swiftly crafts high-quality articles up to 4000 words in under 5 minutes. Our platform extends its prowess to social media, creating posts that engage and resonate. Every piece of content is SEO-optimized, ensuring your message reaches its intended audience effectively. 
+## 🔧 Project Spotlight: [Light of Twelve](https://www.lightoftwelve.com)
 
-As we move forward, we're excited to integrate machine learning capabilities for even more nuanced and effective SERP analysis, competitor research, advanced keyword mapping, content suggestions, and more! Our journey is not just about creating content but shaping the future of how digital content interacts with audiences and search engines alike.
-    </td>
-  </tr>
-</table>
+A high-conversion ecommerce brand built around minerals, crystals, and digital products — backed by custom tech infrastructure, international logistics, and ongoing SEO and platform development.
 
-<br>
-
-<br>
-
-### [Light of Twelve](www.lightoftwelve.com) | Established e-commerce platform 
-<table>
-  <tr>
-    <td>
-      
-A comprehensive worldwide e-commerce platform for gemstone and spirituality enthusiasts with two international warehouses. Built with Shopify and integrates with various payment gateways and shipping providers.
-
-Development Projects for Light of Twelve
-   - **Tarot Reading App**: 
-      - An intuitive and personalized tarot reading application that provides insights and guidance for users. It utilizes machine learning algorithms and a vast database of tarot interpretations generated based on users' input questions.
-   - **Birthchart Generator & Daily Horoscopes**
-      - A birthchart and horoscope generator that provides real-time horoscope data, birth chart calculations, and compatibility analysis. Designed to be seamlessly integrated with the Shopify store.
-    </td>
-   <td>
-      <a href="https://www.writeguide.ai">
-        <img
-          src="https://cdn.shopify.com/s/files/1/0605/4926/7596/files/Clear_Logo_2_copy.png?v=1668808243"
-          width="300px"
-          alt="Write Guide AI Logo"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<br>
-
-### Astrology API | Ongoing Development
-<table>
-  <tr>
-    <td>
-       
-An astrology API that provides real-time horoscope data, birth chart calculations, and compatibility analysis. Designed to integrate seamlessly with websites or applications for other business owners and hobbyists to use in their digital platforms, offering their customers top-of-the-line, accurate results.
-<br>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<br>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lightoftwelve&theme=react&background=FFFFFF&border=130A21&stroke=07BFD3&ring=130A21&fire=07BFD3&currStreakNum=07BFD3&sideNums=07BFD3&currStreakLabel=07BFD3&sideLabels=07BFD3&dates=130A21)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
-Feel free to explore these projects and provide any feedback or suggestions!
-
-<br>
-
-## 🛠️ Skills
-🔧 Throughout my journey, I've acquired a diverse set of skills:
-
-- **Frontend**: HTML, CSS, JavaScript, React, Typescript, jQuery
-- **Backend**: Next.js, Node.js, Express.js, MongoDB (Mongoose), MySQL (Sequelize), API Creation, GraphQL, Handlebars, Amazon Web Services (Lambda, Cloudfront, S3, SQS), Webpack (creating PWAs), C, C#, C++
-- **Libraries**: Bootstrap, Material UI, Prime React, Materialize, Owl Carousel, jQuery FancyBox
-- **Third Party APIs**: OpenAI, Google Map Services
-- **Common Packages**: D3, Chart.js, Editor.js
-- **Design**: UI/UX, Lightroom, Photoshop, Canva, Midjourney, Dall-E
-- **Business**: E-commerce, Project Management, Business Planning, Financial Management, Forecasting, Marketing
-- **Other**: Import/Export, Real Estate Investment, Copywriting, SEO Expertise, SEMrush, SurferSEO, Google Analytics, Google Search Console
-
- <p align="right">...& more</p>
+---
 
 ## 📫 Contact
-📧 Want to collaborate or have any questions? Feel free to reach out to me through the following:
 - Email: [info@lightoftwelve.com](mailto:info@lightoftwelve.com)
 - LinkedIn: [Victoria Alawi](https://www.linkedin.com/in/victoria-alawi-872984250)
 
-Let's connect and create something awesome together!
 
-
-## ✍️ Blog
-📝 I love sharing my thoughts and insights on my blogs. Here are two captivating blogs from my e-commerce business that not only provide valuable information but also help drive organic traffic through SEO strategies:
-
-- [Learning About Tarot](https://lightoftwelve.com/blogs/learning-about-tarot): "Tarot Card Reading: Unlocking the Secrets of the Arcana." 
-- [The Healing Crystal Guide](https://lightoftwelve.com/blogs/the-healing-crystal-guide): "Harnessing the Power of Crystals: Exploring the Healing Energies, Science and History of these fascinating gemstones."
-
-Take a look and let me know your thoughts!
-
-## 🎉 Fun Fact
-⚡️ Fun Fact: Did you know that crystals have been used for centuries for their healing properties and spiritual significance? Different crystals are believed to possess unique energies and can be used for various purposes, such as promoting balance, enhancing focus, or attracting positive energy. From ancient civilizations to modern practices, crystals continue to captivate us with their beauty and metaphysical properties.

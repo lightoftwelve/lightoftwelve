@@ -3,15 +3,6 @@
 </p>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/victoria-alawi-872984250/">
-    <img src="https://img.shields.io/badge/LinkedIn-130A21?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://www.lightoftwelve.com">
-    <img src="https://img.shields.io/badge/website-130A21?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" />
-  </a>
-  <a href="https://www.pinterest.ca/lightoftwelve/">
-    <img src="https://img.shields.io/badge/Pinterest-130A21?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=lightoftwelve&style=for-the-badge&color=130A21" />
 </div>
 
@@ -249,17 +240,5 @@ I’ve led full product lifecycles, from early architecture to deployment and op
  <p align="right">...& more</p>
 
 <br>
-
----
-
-## 🔧 Project Spotlight: [Light of Twelve](https://www.lightoftwelve.com)
-
-A high-conversion ecommerce brand built around minerals, crystals, and digital products — backed by custom tech infrastructure, international logistics, and ongoing SEO and platform development.
-
----
-
-## 📫 Contact
-- Email: [info@lightoftwelve.com](mailto:info@lightoftwelve.com)
-- LinkedIn: [Victoria Alawi](https://www.linkedin.com/in/victoria-alawi-872984250)
 
 
